@@ -45,7 +45,7 @@
     "lodash-es": "^4.17.21",
     "workbox-build": "^6.1.5",
     "workbox-core": "^6.1.2",
-    "workbox-precaching": "^6.1.2"
+    "workbox-precaching": "^6.3.0"
   },
   "devDependencies": {
     "@istanbuljs/nyc-config-typescript": "^1.0.1",
