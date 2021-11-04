@@ -43,7 +43,7 @@
     "express": "^4.17.1",
     "lit": "^2.0.0-rc.2",
     "lodash-es": "^4.17.21",
-    "workbox-build": "^6.1.5",
+    "workbox-build": "^6.4.0",
     "workbox-core": "^6.1.2",
     "workbox-precaching": "^6.1.2"
   },
