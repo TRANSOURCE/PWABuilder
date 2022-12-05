@@ -40,7 +40,7 @@
     "deepmerge": "^4.2.2",
     "downloadjs": "^1.4.7",
     "esm": "^3.2.25",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "lit": "^2.0.0-rc.2",
     "lodash-es": "^4.17.21",
     "workbox-build": "^6.1.5",
